@@ -67,6 +67,7 @@ frontEndUrl=https://***/explo-wx/#/gateWay/
 ## 部署
 * 本地运行(注释pom.xml中这两段) 
 * tomcat中运行 打war包时(放开pom.xml中这两段)
+* 打包命令 （mvnw clean package）
 ```
 <!--  
 <exclusions> <exclusion> <groupId>org.springframework.boot</groupId> 
