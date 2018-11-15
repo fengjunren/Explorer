@@ -9,9 +9,9 @@ SpringBoot 公众号后台
 ## 准备
 * 云主机、域名
 * 申请测试公众号 （https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login）
+![1](https://raw.githubusercontent.com/fengjunren/fengjunren.github.io/master/dl/wx/testpublic2.png)
+![2](https://raw.githubusercontent.com/fengjunren/fengjunren.github.io/master/dl/wx/templateId2.png)
 
 ## 初始化
 * mysql 中执行 initdb.sql
-* 测试号管理配置
-![1](https://raw.githubusercontent.com/fengjunren/fengjunren.github.io/master/dl/wx/testpublic2.png)
-![2](https://raw.githubusercontent.com/fengjunren/fengjunren.github.io/master/dl/wx/templateId2.png)
+* wx_config表插入一条数据（wxId,appId,appSecret）  分别为上图的微信号、appID、appsecret
