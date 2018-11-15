@@ -1,4 +1,4 @@
 # Explorer
 SpringBoot 公众号后台
 
-![abc](https://www.wy180.cn/)
+![预览](preview.gif)
