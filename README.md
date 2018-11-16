@@ -8,7 +8,7 @@ SpringBoot 公众号后台
 
 ## 功能介绍
 * 微信消息推送
-* rsa、aes 双重加密数据传输 (aes 加密数据内容, rsa 加密aes key)
+* rsa、aes 组合加密数据传输 (aes 加密数据内容, rsa 加密aes key)
 * 前端Vue(https://github.com/fengjunren/explo-wx)
 
 ## 准备
